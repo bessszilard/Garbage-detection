@@ -1,4 +1,4 @@
-# Grarbage-detection
+# Garbage-detection
 
 ![yolov4_detections](write-up-images/cover_photo.jpg)
 
